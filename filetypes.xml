@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="SongList" type="AUTO_DETECTED" />
+      <mapping pattern="SongListMore" type="AUTO_DETECTED" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
